@@ -1,0 +1,51 @@
+module ram_async_dp(rd_clock,wr_clock,reset,rd_en,wr_en,wr_addr,rd_addr,data_in,data_out);
+
+parameter ADDRESS = 4,
+	  WIDTH = 16,
+	  DEPTH = 8;
+
+input rd_clock,wr_clock,reset,rd_en,wr_en;
+input [ADDRESS-1:0] wr_addr,rd_addr;
+input [WIDTH-1:0] data_in;
+output reg [WIDTH-1:0] data_out;
+
+reg [WIDTH-1:0] mem [DEPTH-1:0];
+
+integer i;
+
+always@(posedge wr_clock) begin
+  if(reset) begin
+     for(i=0;i<DEPTH;i=i+1) begin
+	mem[i] = 16'h0000;  
+     end
+  end
+
+  else begin
+	if(wr_en && !rd_en) begin
+	mem[wr_addr] <= data_in;
+       end
+  end
+end  
+
+always@(posedge rd_clock) begin
+  if(reset) begin
+     for(i=0;i<DEPTH;i=i+1) begin
+	data_out = 16'h0000;  
+     end
+  end
+
+  else if(rd_en) begin
+	data_out <= mem[wr_addr] ;
+     end
+	
+   else begin
+	data_out <= 16'hzzzz;
+   end
+end
+
+endmodule  
+
+
+    
+	  
+		    

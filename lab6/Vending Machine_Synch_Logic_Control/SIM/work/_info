@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog Projects/Lab_06/Sequence_Detector_101/SIM
+vvending_machine
+Z0 !s110 1616185303
+!i10b 1
+!s100 GB7DCjZeRYd9kgddjmmM63
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjQQo92jFmbImgFM:Q5O3U3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/SIM
+w1616145301
+8E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/RTL/vending_machine.v
+FE:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/RTL/vending_machine.v
+!i122 17
+L0 1 72
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1616185303.000000
+!s107 E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/RTL/vending_machine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/RTL/vending_machine.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vvending_machine_tb
+R0
+!i10b 1
+!s100 P^a_`A3J91n=1Ffd79c[o3
+R1
+IVdl01?zV51V3jLG?hDBQ=3
+R2
+R3
+w1616145424
+8E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/TB/vending_machine_tb.v
+FE:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/TB/vending_machine_tb.v
+!i122 18
+L0 1 59
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/TB/vending_machine_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog Projects/Lab_06/Vending Machine_Synch_Logic_Control/TB/vending_machine_tb.v|
+!i113 1
+R6
+R7

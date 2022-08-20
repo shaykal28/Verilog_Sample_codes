@@ -1,0 +1,90 @@
+# Compile of LR_1.v failed with 1 errors.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v failed with 2 errors.
+# Compile of tb_LR_1.v was successful.
+# Compile of LR_1.v was successful.
+# Compile of LR_1.v was successful.
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SIPO_lr
+# vsim work.tb_SIPO_lr 
+# Start time: 14:57:18 on Oct 20,2020
+# Loading work.tb_SIPO_lr
+# Loading work.SIPO_lr
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'DUT'.  Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_SIPO_lr/DUT File: F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v Line: 6
+# ** Warning: (vsim-3722) F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v(6): [TFMPC] - Missing connection for port 'dir'.
+quit -sim
+# End time: 14:57:40 on Oct 20,2020, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 18
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SIPO_lr
+# vsim work.tb_SIPO_lr 
+# Start time: 14:59:18 on Oct 20,2020
+# Loading work.tb_SIPO_lr
+# Loading work.SIPO_lr
+add wave -position insertpoint sim:/tb_SIPO_lr/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v(62)
+#    Time: 195 ps  Iteration: 0  Instance: /tb_SIPO_lr
+# 1
+# Break in Module tb_SIPO_lr at F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v line 62
+quit -sim
+# End time: 15:02:24 on Oct 20,2020, Elapsed time: 0:03:06
+# Errors: 0, Warnings: 2
+# Compile of tb_LR_1.v was successful.
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SIPO_lr
+# vsim work.tb_SIPO_lr 
+# Start time: 15:03:44 on Oct 20,2020
+# Loading work.tb_SIPO_lr
+# Loading work.SIPO_lr
+add wave -position insertpoint sim:/tb_SIPO_lr/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v(66)
+#    Time: 240 ps  Iteration: 0  Instance: /tb_SIPO_lr
+# 1
+# Break in Module tb_SIPO_lr at F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v line 66
+quit -sim
+# End time: 15:06:05 on Oct 20,2020, Elapsed time: 0:02:21
+# Errors: 0, Warnings: 3
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SIPO_lr
+# vsim work.tb_SIPO_lr 
+# Start time: 15:09:56 on Oct 20,2020
+# Loading work.tb_SIPO_lr
+# Loading work.SIPO_lr
+add wave -position insertpoint sim:/tb_SIPO_lr/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v(65)
+#    Time: 206 ps  Iteration: 0  Instance: /tb_SIPO_lr
+# 1
+# Break in Module tb_SIPO_lr at F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v line 65
+quit -sim
+# End time: 15:12:15 on Oct 20,2020, Elapsed time: 0:02:19
+# Errors: 0, Warnings: 2
+# Compile of LR_1.v was successful.
+# Compile of tb_LR_1.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SIPO_lr
+# vsim work.tb_SIPO_lr 
+# Start time: 15:12:48 on Oct 20,2020
+# Loading work.tb_SIPO_lr
+# Loading work.SIPO_lr
+add wave -position insertpoint sim:/tb_SIPO_lr/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v(65)
+#    Time: 226 ps  Iteration: 0  Instance: /tb_SIPO_lr
+# 1
+# Break in Module tb_SIPO_lr at F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v line 65
+# End time: 15:27:10 on Oct 20,2020, Elapsed time: 0:14:22
+# Errors: 0, Warnings: 3

@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/rtl/decoder_2X4.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\rtl\decoder_2X4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder_2X4
+
+Top level modules:
+	decoder_2X4
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/tb/tb_2X4_decoder.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\tb\tb_2X4_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_2X4_decoder
+
+Top level modules:
+	tb_2X4_decoder
+
+} {} {}}

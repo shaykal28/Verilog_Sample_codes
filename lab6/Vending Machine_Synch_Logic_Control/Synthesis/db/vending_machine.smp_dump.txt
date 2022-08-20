@@ -1,0 +1,6 @@
+
+State Machine - |vending_machine|present_state
+Name present_state.IDLE present_state.State2 present_state.State1 
+present_state.IDLE 0 0 0 
+present_state.State1 1 0 1 
+present_state.State2 1 1 0 

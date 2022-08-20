@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/sim
+vbidir_buf
+!s110 1602156157
+!i10b 1
+!s100 Ce`LJ@ZhKVC2]Q51MazgG0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJd=95=1<mLKAloKEd`=FA1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab1/Bidir_buffer/sim
+w1601448177
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\rtl\bidir_buf.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\rtl\bidir_buf.v
+!i122 3
+L0 1 7
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602156157.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\rtl\bidir_buf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\rtl\bidir_buf.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtb_bidir_buf
+!s110 1602156158
+!i10b 1
+!s100 nU8M@`go57DjFHXM:<H^n1
+R0
+I^oT3N=ZBAl77SSL<f0PlO1
+R1
+R2
+w1602156144
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\tb\tb_bidir_buf.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\tb\tb_bidir_buf.v
+!i122 4
+L0 1 36
+R3
+r1
+!s85 0
+31
+!s108 1602156158.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\tb\tb_bidir_buf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\Bidir_buffer\tb\tb_bidir_buf.v|
+!i113 1
+R4
+R5

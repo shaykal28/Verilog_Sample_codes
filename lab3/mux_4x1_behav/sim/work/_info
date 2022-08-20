@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vmux4_1
+Z0 !s110 1602173709
+!i10b 1
+!s100 QhRm[26YXd?_>S>?dh6>C2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQnQlEDOK0FVVKE4_JIHEO1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab3/mux_4x1_behav/sim
+w1601638864
+8F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\rtl\mux4_1.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\rtl\mux4_1.v
+!i122 11
+L0 24 20
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602173708.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\rtl\mux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\rtl\mux4_1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmux4_1_tb
+R0
+!i10b 1
+!s100 P^Q`8Xn6flEn0KPBVSNgI3
+R1
+I<4OGE6`z025D`ZQng2h;91
+R2
+R3
+w1601638889
+8F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\tb\mux4_1_tb.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\tb\mux4_1_tb.v
+!i122 12
+L0 24 58
+R4
+r1
+!s85 0
+31
+!s108 1602173709.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\tb\mux4_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab3\mux_4x1_behav\tb\mux4_1_tb.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Lab reviews/Lab review1/sim
+vmod12_counter
+Z0 !s110 1602869674
+!i10b 1
+!s100 bX0Ygeekl[iW_=JAKBK8b1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUbihT_mfc@`aZ]2@NK`:13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/sim
+w1602580925
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/rtl/mod12_counter.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/rtl/mod12_counter.v
+!i122 2
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602869673.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/rtl/mod12_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/rtl/mod12_counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_mod12_counter
+R0
+!i10b 1
+!s100 liMEn77Eb0S84QcG6@7za2
+R1
+II8eLDYF2N@JiGIQWhe2903
+R2
+R3
+w1602581072
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/tb/tb_mod12_counter.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/tb/tb_mod12_counter.v
+!i122 3
+L0 1 61
+R4
+r1
+!s85 0
+31
+!s108 1602869674.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/tb/tb_mod12_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/tb/tb_mod12_counter.v|
+!i113 1
+R5
+R6

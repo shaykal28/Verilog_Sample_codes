@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Projects/Alarm_clock/sim
+vram
+Z0 !s110 1604579418
+!i10b 1
+!s100 5GG1K>cn=Biai9dlkHQ`E1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXzDB5hK@>GPe9@hH9eJGG2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Lab reviews/5Nov/sim
+w1604575676
+8F:/Maven_Training/Lab reviews/5Nov/rtl/RAM.v
+FF:/Maven_Training/Lab reviews/5Nov/rtl/RAM.v
+!i122 9
+L0 1 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1604579417.000000
+!s107 F:/Maven_Training/Lab reviews/5Nov/rtl/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Lab reviews/5Nov/rtl/RAM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_RAM
+R0
+!i10b 1
+!s100 =0FPJjDS98>ZEVN>GXAmY2
+R1
+I2EzX@G?W_7<fUo9`k^aFn1
+R2
+R3
+w1604579413
+8F:/Maven_Training/Lab reviews/5Nov/tb/tb_RAM.v
+FF:/Maven_Training/Lab reviews/5Nov/tb/tb_RAM.v
+!i122 10
+L0 1 81
+R4
+r1
+!s85 0
+31
+!s108 1604579418.000000
+!s107 F:/Maven_Training/Lab reviews/5Nov/tb/tb_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Lab reviews/5Nov/tb/tb_RAM.v|
+!i113 1
+R5
+R6
+ntb_@r@a@m

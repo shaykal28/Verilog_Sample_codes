@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Design Verification/M5 Verilog/Verilog_labs/Lab reports & misc/Understanding timings/sim
+vclk_div_3
+!s110 1630159912
+!i10b 1
+!s100 CionE:z?;8_29b6f<lz7z1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgEmN5g7F^ZAmBhX:NA]kP2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/sim
+w1630159770
+8F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/rtl/clock_div_3.v
+FF:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/rtl/clock_div_3.v
+!i122 4
+L0 1 24
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1630159912.000000
+!s107 F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/rtl/clock_div_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/rtl/clock_div_3.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vclkdiv3_tb
+!s110 1630159913
+!i10b 1
+!s100 47LN2OF;Qea=n:IN3ffe<1
+R0
+I>4O@V6Fa<e9U0:`DB]8LC3
+R1
+R2
+w1630159907
+8F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/tb/tb_clock_div_3.v
+FF:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/tb/tb_clock_div_3.v
+!i122 5
+L0 2 35
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/tb/tb_clock_div_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 3/tb/tb_clock_div_3.v|
+!i113 1
+R5
+R6

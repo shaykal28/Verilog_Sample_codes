@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab3/PriEncoder_8x3/rtl/priencoder_8x3.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab3\PriEncoder_8x3\rtl\priencoder_8x3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module priencoder_8x3
+
+Top level modules:
+	priencoder_8x3
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab3/PriEncoder_8x3/tb/tb_priencoder_8x3.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab3\PriEncoder_8x3\tb\tb_priencoder_8x3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_priencoder_8x3
+
+Top level modules:
+	tb_priencoder_8x3
+
+} {} {}}

@@ -1,0 +1,51 @@
+# Compile of tb_PriEncoder_3X8.v was successful.
+# Compile of PriEncoder_3X8.v was successful.
+# Compile of tb_PriEncoder_3X8.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_PriEncoder_3X8
+# vsim work.tb_PriEncoder_3X8 
+# Start time: 16:34:48 on Oct 08,2020
+# Loading work.tb_PriEncoder_3X8
+# Loading work.PriEncoder_3X8
+add wave -position insertpoint sim:/tb_PriEncoder_3X8/*
+add wave -position insertpoint sim:/tb_PriEncoder_3X8/DUT/*
+run -all
+# data_in=00000000 enable=1 data_out=000
+# data_in=00001000 enable=1 data_out=011
+# data_in=00010000 enable=1 data_out=100
+# data_in=00011000 enable=1 data_out=100
+# data_in=00100000 enable=1 data_out=101
+# data_in=00101000 enable=1 data_out=101
+# data_in=00110000 enable=1 data_out=101
+# data_in=00111000 enable=1 data_out=101
+# data_in=01000000 enable=1 data_out=110
+# data_in=01001000 enable=1 data_out=110
+# data_in=01010000 enable=1 data_out=110
+# data_in=01011000 enable=1 data_out=110
+# data_in=01100000 enable=1 data_out=110
+# data_in=01101000 enable=1 data_out=110
+# data_in=01110000 enable=1 data_out=110
+# data_in=01111000 enable=1 data_out=110
+# data_in=10000000 enable=1 data_out=111
+# data_in=10001000 enable=1 data_out=111
+# data_in=10010000 enable=1 data_out=111
+# data_in=10011000 enable=1 data_out=111
+# data_in=10100000 enable=1 data_out=111
+# data_in=10101000 enable=1 data_out=111
+# data_in=10110000 enable=1 data_out=111
+# data_in=10111000 enable=1 data_out=111
+# data_in=11000000 enable=1 data_out=111
+# data_in=11001000 enable=1 data_out=111
+# data_in=11010000 enable=1 data_out=111
+# data_in=11011000 enable=1 data_out=111
+# data_in=11100000 enable=1 data_out=111
+# data_in=11101000 enable=1 data_out=111
+# data_in=11110000 enable=1 data_out=111
+# data_in=11111000 enable=1 data_out=111
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/PriEncoder_3X8/tb/tb_PriEncoder_3X8.v(21)
+#    Time: 370 ps  Iteration: 0  Instance: /tb_PriEncoder_3X8
+# 1
+# Break in Module tb_PriEncoder_3X8 at F:/Maven_Training/Verilog/Verilog_labs/lab1/PriEncoder_3X8/tb/tb_PriEncoder_3X8.v line 21
+quit -sim
+# End time: 16:43:08 on Oct 08,2020, Elapsed time: 0:08:20
+# Errors: 0, Warnings: 3

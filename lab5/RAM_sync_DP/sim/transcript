@@ -1,0 +1,17 @@
+# Compile of ram_dp_sync.v was successful.
+# Compile of tb_ram_dp_sync.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_ram_dp_sync
+# vsim work.tb_ram_dp_sync 
+# Start time: 23:24:52 on Oct 16,2020
+# Loading work.tb_ram_dp_sync
+# Loading work.ram_dp_sync
+add wave -position insertpoint sim:/tb_ram_dp_sync/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v(89)
+#    Time: 570 ps  Iteration: 0  Instance: /tb_ram_dp_sync
+# 1
+# Break in Module tb_ram_dp_sync at F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v line 89
+quit -sim
+# End time: 23:30:38 on Oct 16,2020, Elapsed time: 0:05:46
+# Errors: 0, Warnings: 2

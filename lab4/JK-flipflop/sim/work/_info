@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab3/Mohan/sim
+vJK_ff
+Z0 !s110 1602869126
+!i10b 1
+!s100 MfkO9I6IIhai@:KgEWZVf2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK^3<U0J8PDkfJUj<T9l=K0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/sim
+w1602141497
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/rtl/JK-ff.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/rtl/JK-ff.v
+!i122 11
+L0 1 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602869125.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/rtl/JK-ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/rtl/JK-ff.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@j@k_ff
+vtb_JK_ff
+R0
+!i10b 1
+!s100 PA`6JVfEz32E`ZojfB4]@1
+R1
+IP_KY4B3Zoba85nQJX5[gA1
+R2
+R3
+w1602150992
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v
+!i122 12
+L0 3 59
+R4
+r1
+!s85 0
+31
+!s108 1602869126.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v|
+!i113 1
+R5
+R6
+ntb_@j@k_ff

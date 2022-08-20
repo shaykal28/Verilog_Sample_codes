@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab5/SISO/rtl/SISO.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\rtl\SISO.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SISO
+
+Top level modules:
+	SISO
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab5/SISO/tb/tb_SISO.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\tb\tb_SISO.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_SISO
+
+Top level modules:
+	tb_SISO
+
+} {} {}}

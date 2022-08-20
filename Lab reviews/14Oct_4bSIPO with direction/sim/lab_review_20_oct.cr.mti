@@ -1,0 +1,15 @@
+{F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v} {1 {vlog -work work -stats=none {F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SIPO_lr
+
+Top level modules:
+	SIPO_lr
+
+} {} {}} {F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v} {1 {vlog -work work -stats=none {F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_SIPO_lr
+
+Top level modules:
+	tb_SIPO_lr
+
+} {} {}}

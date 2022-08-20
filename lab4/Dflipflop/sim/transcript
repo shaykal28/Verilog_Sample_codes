@@ -1,0 +1,44 @@
+# Error opening F:/Maven_Training/Verilog/Verilog_labs/lab4/rtl/dff.v
+# Path name 'F:/Maven_Training/Verilog/Verilog_labs/lab4/rtl/dff.v' doesn't exist.
+# Error opening F:/Maven_Training/Verilog/Verilog_labs/lab4/tb/dff_tb.v
+# Path name 'F:/Maven_Training/Verilog/Verilog_labs/lab4/tb/dff_tb.v' doesn't exist.
+# Compile of dff.v was successful.
+# Compile of dff_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.dff_tb
+# vsim work.dff_tb 
+# Start time: 22:45:08 on Oct 16,2020
+# Loading work.dff_tb
+# Loading work.dff
+add wave -position insertpoint sim:/dff_tb/*
+run -all
+# clk=x reset=x d=x q=x qb=x
+# clk=0 reset=1 d=x q=x qb=x
+# clk=1 reset=1 d=x q=0 qb=1
+# clk=0 reset=0 d=x q=0 qb=1
+# clk=1 reset=0 d=x q=x qb=x
+# clk=0 reset=0 d=0 q=x qb=x
+# clk=1 reset=0 d=0 q=0 qb=1
+# clk=0 reset=0 d=1 q=0 qb=1
+# clk=1 reset=0 d=1 q=1 qb=0
+# clk=0 reset=0 d=0 q=1 qb=0
+# clk=1 reset=0 d=0 q=0 qb=1
+# clk=0 reset=0 d=1 q=0 qb=1
+# clk=1 reset=0 d=1 q=1 qb=0
+# clk=0 reset=0 d=1 q=1 qb=0
+# clk=1 reset=0 d=1 q=1 qb=0
+# clk=0 reset=1 d=1 q=1 qb=0
+# clk=1 reset=1 d=1 q=0 qb=1
+# clk=0 reset=0 d=1 q=0 qb=1
+# clk=1 reset=0 d=1 q=1 qb=0
+# clk=0 reset=0 d=0 q=1 qb=0
+# clk=1 reset=0 d=0 q=0 qb=1
+# clk=0 reset=0 d=1 q=0 qb=1
+# clk=1 reset=0 d=1 q=1 qb=0
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/tb/dff_tb.v(76)
+#    Time: 115 ps  Iteration: 0  Instance: /dff_tb
+# 1
+# Break in Module dff_tb at F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/tb/dff_tb.v line 76
+# End time: 22:49:31 on Oct 16,2020, Elapsed time: 0:04:23
+# Errors: 0, Warnings: 7
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/sim/Dflipflop.mpf

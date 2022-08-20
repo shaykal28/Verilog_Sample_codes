@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/sim
+vdecbuffer_mux
+!s110 1602155811
+!i10b 1
+!s100 Ie^aLPJ<^ZLX3Ml<4oIB?1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`Ve:`=1ClilekKbDX0;dQ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab1/Mux_using_dec_buffer/sim
+w1602089129
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decbuffer_mux.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decbuffer_mux.v
+!i122 15
+L0 1 17
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602155811.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decbuffer_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decbuffer_mux.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdecoder
+Z6 !s110 1602155812
+!i10b 1
+!s100 fDleSJLcia_eQk9UQ8j<;0
+R0
+If5dcfhM0WH67UV9EAnWjz2
+R1
+R2
+w1602047876
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decoder_2X4.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decoder_2X4.v
+!i122 17
+L0 1 8
+R3
+r1
+!s85 0
+31
+Z7 !s108 1602155812.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decoder_2X4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\rtl\decoder_2X4.v|
+!i113 1
+R4
+R5
+vtb_decbuffer_mux
+R6
+!i10b 1
+!s100 718DG0nS>Vk[MD_^PFUj=1
+R0
+II826zndgWaWezCi7A]cdB2
+R1
+R2
+w1602070949
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\tb\tb_decbuffer_mux.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\tb\tb_decbuffer_mux.v
+!i122 16
+L0 1 32
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\tb\tb_decbuffer_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\Mux_using_dec_buffer\tb\tb_decbuffer_mux.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/sim
+vram_dp_sync
+!s110 1602870887
+!i10b 1
+!s100 THzo7^H4WSZS_giRU;`PV0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+In15gPRHRbbK:E`jPXV?8`0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/sim
+w1602663258
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v
+!i122 7
+L0 1 34
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602870887.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtb_ram_dp_sync
+!s110 1602870888
+!i10b 1
+!s100 1T^DE@;LgK>3R:]4[oj5b3
+R0
+IMmjB9lMPR7MO?B`TE@AA10
+R1
+R2
+w1602662990
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v
+!i122 8
+L0 1 94
+R3
+r1
+!s85 0
+31
+!s108 1602870888.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/sim
+vdecoder_2X4
+Z0 !s110 1602154530
+!i10b 1
+!s100 0V?ZDdm4B3]`<MM=DZYL@2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IW;Bnm0Fh;b9bXCB:n[>=I0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/sim
+w1601359668
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\rtl\decoder_2X4.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\rtl\decoder_2X4.v
+!i122 4
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602154530.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\rtl\decoder_2X4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\rtl\decoder_2X4.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+ndecoder_2@x4
+vtb_2X4_decoder
+R0
+!i10b 1
+!s100 _6XkWKN2PV_lDW58;1jGP1
+R1
+Ij7=b2zfH[5@_h2L6QPRVN1
+R2
+R3
+w1601360594
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\tb\tb_2X4_decoder.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\tb\tb_2X4_decoder.v
+!i122 3
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1602154529.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\tb\tb_2X4_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\2X4_decoder\tb\tb_2X4_decoder.v|
+!i113 1
+R5
+R6
+ntb_2@x4_decoder

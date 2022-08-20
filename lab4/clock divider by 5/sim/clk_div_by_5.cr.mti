@@ -1,0 +1,15 @@
+{F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 5/tb/tb_clock_div_5.v} {1 {vlog -work work -stats=none {F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 5/tb/tb_clock_div_5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clk_div_5_tb
+
+Top level modules:
+	clk_div_5_tb
+
+} {} {}} {F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 5/rtl/clock_div_5.v} {1 {vlog -work work -stats=none {F:/Design Verification/M5 Verilog/Verilog_labs/lab4/clock divider by 5/rtl/clock_div_5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clk_div_5
+
+Top level modules:
+	clk_div_5
+
+} {} {}}

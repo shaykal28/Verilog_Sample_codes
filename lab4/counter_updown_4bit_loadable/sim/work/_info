@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/sim
+vcounter_updown_4bit_loadable
+Z0 !s110 1602869985
+!i10b 1
+!s100 g1SY05li[3dVkdiXLdi:B2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbdlKHgbd[I7h6@C9nb>^Y1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/sim
+w1602475178
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/rtl/counter_updown_loadable.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/rtl/counter_updown_loadable.v
+!i122 5
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1602869985.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/rtl/counter_updown_loadable.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/rtl/counter_updown_loadable.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_counter_updown_4bit_loadable
+R0
+!i10b 1
+!s100 Fo]hV7UZ0QnOzWd6gQfB?2
+R1
+Im^OTKc]jnG>=8H_eM]GAS1
+R2
+R3
+w1602502520
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/tb/tb_counter_updown_loadable.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/tb/tb_counter_updown_loadable.v
+!i122 6
+L0 1 67
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/tb/tb_counter_updown_loadable.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_updown_4bit_loadable/tb/tb_counter_updown_loadable.v|
+!i113 1
+R6
+R7

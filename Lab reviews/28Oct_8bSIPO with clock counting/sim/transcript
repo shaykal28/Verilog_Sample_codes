@@ -1,0 +1,67 @@
+# Compile of SIPO.v failed with 1 errors.
+# Compile of SIPO.v was successful.
+# Compile of SIPO.v was successful.
+# Compile of SIPO.v was successful.
+# Compile of SIPO.v was successful.
+# Compile of tb_SIPO.v was successful.
+vsim work.tb_SIPO
+# vsim work.tb_SIPO 
+# Start time: 15:35:21 on Oct 28,2020
+# Loading work.tb_SIPO
+# Loading work.SIPO_special
+add wave -position insertpoint sim:/tb_SIPO/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v(48)
+#    Time: 189 ps  Iteration: 0  Instance: /tb_SIPO
+# 1
+# Break in Module tb_SIPO at F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v line 48
+quit -sim
+# End time: 15:36:46 on Oct 28,2020, Elapsed time: 0:01:25
+# Errors: 0, Warnings: 11
+# Compile of tb_SIPO.v was successful.
+vsim work.tb_SIPO
+# vsim work.tb_SIPO 
+# Start time: 15:37:29 on Oct 28,2020
+# Loading work.tb_SIPO
+# Loading work.SIPO_special
+add wave -position insertpoint sim:/tb_SIPO/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v(48)
+#    Time: 229 ps  Iteration: 0  Instance: /tb_SIPO
+# 1
+# Break in Module tb_SIPO at F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v line 48
+quit -sim
+# End time: 15:40:34 on Oct 28,2020, Elapsed time: 0:03:05
+# Errors: 0, Warnings: 2
+# Compile of tb_SIPO.v was successful.
+# Compile of SIPO.v was successful.
+# Compile of tb_SIPO.v was successful.
+vsim work.tb_SIPO
+# vsim work.tb_SIPO 
+# Start time: 15:43:46 on Oct 28,2020
+# Loading work.tb_SIPO
+# Loading work.SIPO_special
+add wave -position insertpoint sim:/tb_SIPO/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v(48)
+#    Time: 395 ps  Iteration: 0  Instance: /tb_SIPO
+# 1
+# Break in Module tb_SIPO at F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v line 48
+quit -sim
+# End time: 15:45:47 on Oct 28,2020, Elapsed time: 0:02:01
+# Errors: 0, Warnings: 4
+# Compile of SIPO.v was successful.
+# Compile of tb_SIPO.v was successful.
+vsim work.tb_SIPO
+# vsim work.tb_SIPO 
+# Start time: 15:50:05 on Oct 28,2020
+# Loading work.tb_SIPO
+# Loading work.SIPO_special
+add wave -position insertpoint sim:/tb_SIPO/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v(57)
+#    Time: 440 ps  Iteration: 0  Instance: /tb_SIPO
+# 1
+# Break in Module tb_SIPO at F:/Maven_Training/Verilog/Lab reviews/Test_28_oct/tb/tb_SIPO.v line 57
+# End time: 16:12:22 on Oct 28,2020, Elapsed time: 0:22:17
+# Errors: 0, Warnings: 3

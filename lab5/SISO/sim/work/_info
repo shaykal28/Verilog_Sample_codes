@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_async_DP/sim
+vSISO
+!s110 1602744930
+!i10b 1
+!s100 ijjEe3P^n4=o`:gLj8kTN1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IATk2alA=7`ijJa2CFbHRR3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab5/SISO/sim
+w1602744921
+8F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\rtl\SISO.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\rtl\SISO.v
+!i122 6
+L0 1 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602744930.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\rtl\SISO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\rtl\SISO.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@s@i@s@o
+vtb_SISO
+!s110 1602744877
+!i10b 1
+!s100 FQGYBj[P[@:dkN8ZULJ753
+R0
+Ie1?^[1^MEk<S@oaRn7I2:0
+R1
+R2
+w1602744846
+8F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\tb\tb_SISO.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\tb\tb_SISO.v
+!i122 5
+L0 1 59
+R3
+r1
+!s85 0
+31
+!s108 1602744876.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\tb\tb_SISO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab5\SISO\tb\tb_SISO.v|
+!i113 1
+R4
+R5
+ntb_@s@i@s@o

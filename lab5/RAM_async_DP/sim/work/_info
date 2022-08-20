@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/sim
+vram_async_dp
+!s110 1602672805
+!i10b 1
+!s100 PdcjSYVmlAg5f1CdYibI91
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IS8S1<QUnCPciW]9N1=jRM3
+VDg1SIo80bB@j0V0VzS_@n1
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_async_DP/sim
+w1602672794
+8F:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\rtl\ram_async_dp.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\rtl\ram_async_dp.v
+!i122 1
+L0 1 48
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602672805.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\rtl\ram_async_dp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\rtl\ram_async_dp.v|
+!i113 1
+o-work work
+tCvgOpt 0

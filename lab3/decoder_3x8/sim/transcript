@@ -1,0 +1,30 @@
+# Compile of decoder_3x8.v was successful.
+# Compile of tb_decoder_3x8.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of tb_decoder_3x8.v was successful.
+# Compile of decoder_3x8.v was successful.
+# Compile of tb_decoder_3x8.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_decoder_3x8
+# vsim work.tb_decoder_3x8 
+# Start time: 21:53:33 on Oct 08,2020
+# Loading work.tb_decoder_3x8
+# Loading work.decoder_3x8
+add wave -position insertpoint sim:/tb_decoder_3x8/*
+add wave -position insertpoint sim:/tb_decoder_3x8/DUT/*
+run -all
+# in =000 out=00000001
+# in =001 out=00000010
+# in =010 out=00000100
+# in =011 out=00001000
+# in =100 out=00010000
+# in =101 out=00100000
+# in =110 out=01000000
+# in =111 out=10000000
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab3/decoder_3x8/tb/tb_decoder_3x8.v(33)
+#    Time: 90 ns  Iteration: 0  Instance: /tb_decoder_3x8
+# 1
+# Break in Module tb_decoder_3x8 at F:/Maven_Training/Verilog/Verilog_labs/lab3/decoder_3x8/tb/tb_decoder_3x8.v line 33
+quit -sim
+# End time: 21:55:48 on Oct 08,2020, Elapsed time: 0:02:15
+# Errors: 0, Warnings: 4

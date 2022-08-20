@@ -1,0 +1,29 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/rtl/mux_4.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\Muxes_4_from_2\rtl\mux_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4
+
+Top level modules:
+	mux_4
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/tb/tb_mux_4.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\Muxes_4_from_2\tb\tb_mux_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux_4
+
+Top level modules:
+	tb_mux_4
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/rtl/mux_2.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\Muxes_4_from_2\rtl\mux_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2
+
+Top level modules:
+	mux_2
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/rtl/tb_mux_2.v {1 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab1\Muxes_4_from_2\rtl\tb_mux_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux_2
+
+Top level modules:
+	tb_mux_2
+
+} {} {}}

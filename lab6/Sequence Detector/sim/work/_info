@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Projects/Alarm_clock/sim
+vseq_det
+!s110 1602872573
+!i10b 1
+!s100 B^mGlQNo3Q@`l0BDao8Mh0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiJfJV8cJmbXPdFF=geYgN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab6/sim
+w1602872565
+8F:/Maven_Training/Verilog/Verilog_labs/lab6/rtl/seq_det.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab6/rtl/seq_det.v
+!i122 14
+L0 24 60
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602872573.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab6/rtl/seq_det.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab6/rtl/seq_det.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vseq_det_tb
+!s110 1602872318
+!i10b 1
+!s100 DcZ8En0WgQf`LMhlHK5k32
+R0
+IDc8_oX5E2W7_MC_iH::_^1
+R1
+R2
+w1602872259
+8F:/Maven_Training/Verilog/Verilog_labs/lab6/tb/seq_det_tb.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab6/tb/seq_det_tb.v
+!i122 12
+L0 24 98
+R3
+r1
+!s85 0
+31
+!s108 1602872317.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab6/tb/seq_det_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab6/tb/seq_det_tb.v|
+!i113 1
+R4
+R5

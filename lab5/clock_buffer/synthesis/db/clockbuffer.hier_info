@@ -1,0 +1,5 @@
+|clockbuffer
+in_clock => one.DATAIN
+buffered_clock <= one.DB_MAX_OUTPUT_PORT_TYPE
+
+

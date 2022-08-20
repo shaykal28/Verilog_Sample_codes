@@ -1,0 +1,83 @@
+# Compile of mux4_1.v was successful.
+# Compile of mux4_1_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.mux4_1_tb
+# vsim work.mux4_1_tb 
+# Start time: 21:45:15 on Oct 08,2020
+# Loading work.mux4_1_tb
+# Loading work.mux4_1
+add wave -position insertpoint sim:/mux4_1_tb/*
+add wave -position insertpoint sim:/mux4_1_tb/m0/*
+run -all
+# data=0000 select=00 output=0
+# data=0000 select=01 output=0
+# data=0000 select=10 output=0
+# data=0000 select=11 output=0
+# data=0001 select=00 output=1
+# data=0001 select=01 output=0
+# data=0001 select=10 output=0
+# data=0001 select=11 output=0
+# data=0010 select=00 output=0
+# data=0010 select=01 output=1
+# data=0010 select=10 output=0
+# data=0010 select=11 output=0
+# data=0011 select=00 output=1
+# data=0011 select=01 output=1
+# data=0011 select=10 output=0
+# data=0011 select=11 output=0
+# data=0100 select=00 output=0
+# data=0100 select=01 output=0
+# data=0100 select=10 output=1
+# data=0100 select=11 output=0
+# data=0101 select=00 output=1
+# data=0101 select=01 output=0
+# data=0101 select=10 output=1
+# data=0101 select=11 output=0
+# data=0110 select=00 output=0
+# data=0110 select=01 output=1
+# data=0110 select=10 output=1
+# data=0110 select=11 output=0
+# data=0111 select=00 output=1
+# data=0111 select=01 output=1
+# data=0111 select=10 output=1
+# data=0111 select=11 output=0
+# data=1000 select=00 output=0
+# data=1000 select=01 output=0
+# data=1000 select=10 output=0
+# data=1000 select=11 output=1
+# data=1001 select=00 output=1
+# data=1001 select=01 output=0
+# data=1001 select=10 output=0
+# data=1001 select=11 output=1
+# data=1010 select=00 output=0
+# data=1010 select=01 output=1
+# data=1010 select=10 output=0
+# data=1010 select=11 output=1
+# data=1011 select=00 output=1
+# data=1011 select=01 output=1
+# data=1011 select=10 output=0
+# data=1011 select=11 output=1
+# data=1100 select=00 output=0
+# data=1100 select=01 output=0
+# data=1100 select=10 output=1
+# data=1100 select=11 output=1
+# data=1101 select=00 output=1
+# data=1101 select=01 output=0
+# data=1101 select=10 output=1
+# data=1101 select=11 output=1
+# data=1110 select=00 output=0
+# data=1110 select=01 output=1
+# data=1110 select=10 output=1
+# data=1110 select=11 output=1
+# data=1111 select=00 output=1
+# data=1111 select=01 output=1
+# data=1111 select=10 output=1
+# data=1111 select=11 output=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab3/mux_4x1_behav/tb/mux4_1_tb.v(68)
+#    Time: 640 ps  Iteration: 0  Instance: /mux4_1_tb
+# 1
+# Break in Module mux4_1_tb at F:/Maven_Training/Verilog/Verilog_labs/lab3/mux_4x1_behav/tb/mux4_1_tb.v line 68
+quit -sim
+# End time: 21:49:29 on Oct 08,2020, Elapsed time: 0:04:14
+# Errors: 0, Warnings: 3
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab3/mux_4x1_behav/sim/mux_4x1_behav.mpf

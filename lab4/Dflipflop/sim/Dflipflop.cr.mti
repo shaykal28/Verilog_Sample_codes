@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/tb/dff_tb.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/tb/dff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff_tb
+
+Top level modules:
+	dff_tb
+
+} {} {}}

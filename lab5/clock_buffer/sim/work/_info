@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/mentor session things/sim
+vclock_buffer
+!s110 1616066787
+!i10b 1
+!s100 GN8LRZZAQIdE1ial7GlI;3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2n8E5FkIb[YS_f5:PaFNb1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/sim
+w1616008280
+Z3 8C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v
+Z4 FC:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v
+!i122 0
+Z5 L0 1 7
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1616066787.000000
+Z7 !s107 C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vclockbuffer
+!s110 1616072596
+!i10b 1
+!s100 gJF=SBD^136PgGfQKoc]M1
+R0
+IPfec<TnDkfY8ZZ[IB?^B20
+R1
+R2
+w1616072587
+R3
+R4
+!i122 12
+R5
+R6
+r1
+!s85 0
+31
+!s108 1616072596.000000
+R7
+R8
+!i113 1
+R9
+R10
+vclockbuffer_tb
+!s110 1616074520
+!i10b 1
+!s100 l_Y1`X9O1ek1aGzSW]YJS1
+R0
+IKKj2aj=eEH3nmfbo7Q=W;3
+R1
+R2
+w1616074511
+8C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v
+FC:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v
+!i122 19
+L0 1 80
+R6
+r1
+!s85 0
+31
+!s108 1616074520.000000
+!s107 C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v|
+!i113 1
+R9
+R10

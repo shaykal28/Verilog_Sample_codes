@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "product_delivered",
+					"strict" : false
+				},
+				{
+					"name" : "return_amt",
+					"strict" : false
+				},
+				{
+					"name" : "coin_amt[0]",
+					"strict" : false
+				},
+				{
+					"name" : "coin_amt[1]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

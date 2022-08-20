@@ -1,0 +1,24 @@
+vsim work.full_adder_tb
+# vsim work.full_adder_tb 
+# Start time: 15:02:49 on Oct 07,2020
+# Loading work.full_adder_tb
+# Loading work.full_adder
+# Loading work.half_adder
+add wave -position insertpoint sim:/full_adder_tb/*
+add wave -position insertpoint sim:/full_adder_tb/DUT/*
+run -all
+# Input a=0, b=0, c=0, Output sum =0, carry=0
+# Input a=0, b=0, c=1, Output sum =1, carry=0
+# Input a=0, b=1, c=0, Output sum =1, carry=0
+# Input a=0, b=1, c=1, Output sum =0, carry=1
+# Input a=1, b=0, c=0, Output sum =1, carry=0
+# Input a=1, b=0, c=1, Output sum =0, carry=1
+# Input a=1, b=1, c=0, Output sum =0, carry=1
+# Input a=1, b=1, c=1, Output sum =1, carry=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v(59)
+#    Time: 100 ps  Iteration: 0  Instance: /full_adder_tb
+# 1
+# Break in Module full_adder_tb at F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v line 59
+# End time: 15:07:12 on Oct 07,2020, Elapsed time: 0:04:23
+# Errors: 0, Warnings: 1
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/sim/Adders.mpf

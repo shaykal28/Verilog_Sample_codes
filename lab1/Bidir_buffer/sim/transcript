@@ -1,0 +1,26 @@
+# Compile of bidir_buf.v was successful.
+# Compile of tb_bidir_buf.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_bidir_buf
+# vsim work.tb_bidir_buf 
+# Start time: 16:53:34 on Oct 08,2020
+# Loading work.tb_bidir_buf
+# Loading work.bidir_buf
+add wave -position insertpoint sim:/tb_bidir_buf/*
+add wave -position insertpoint sim:/tb_bidir_buf/DUT/*
+run -all
+# x=0 y=0 tempA=0 tempb=0 control=0
+# x=0 y=0 tempA=0 tempb=1 control=0
+# x=1 y=1 tempA=1 tempb=0 control=0
+# x=1 y=1 tempA=1 tempb=1 control=0
+# x=0 y=0 tempA=0 tempb=0 control=1
+# x=1 y=1 tempA=0 tempb=1 control=1
+# x=0 y=0 tempA=1 tempb=0 control=1
+# x=1 y=1 tempA=1 tempb=1 control=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/Bidir_buffer/tb/tb_bidir_buf.v(34)
+#    Time: 100 ps  Iteration: 0  Instance: /tb_bidir_buf
+# 1
+# Break in Module tb_bidir_buf at F:/Maven_Training/Verilog/Verilog_labs/lab1/Bidir_buffer/tb/tb_bidir_buf.v line 34
+quit -sim
+# End time: 17:01:29 on Oct 08,2020, Elapsed time: 0:07:55
+# Errors: 0, Warnings: 2

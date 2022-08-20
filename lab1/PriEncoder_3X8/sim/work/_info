@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/sim
+vPriEncoder_3X8
+Z0 !s110 1602155083
+!i10b 1
+!s100 eg7`b[>nEeSF@h_ldO_:J3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<^kkDl3if83g6e^k38KcR2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab1/PriEncoder_3X8/sim
+w1602053041
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\rtl\PriEncoder_3X8.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\rtl\PriEncoder_3X8.v
+!i122 5
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1602155083.000000
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\rtl\PriEncoder_3X8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\rtl\PriEncoder_3X8.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@pri@encoder_3@x8
+vtb_PriEncoder_3X8
+R0
+!i10b 1
+!s100 5eVh3czLBV9>[N7mfPGG42
+R1
+I7V]BaQR?5H=XoV9AH7HDW2
+R2
+R3
+w1602154859
+8F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\tb\tb_PriEncoder_3X8.v
+FF:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\tb\tb_PriEncoder_3X8.v
+!i122 6
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\tb\tb_PriEncoder_3X8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Verilog_labs\lab1\PriEncoder_3X8\tb\tb_PriEncoder_3X8.v|
+!i113 1
+R6
+R7
+ntb_@pri@encoder_3@x8

@@ -1,0 +1,6 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_async_DP/tb/tb_ram_async_dp.v {0 {vlog -work work -stats=none {F:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\tb\tb_ram_async_dp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ram_async_dp
+** Error: F:\Maven_Training\Verilog\Verilog_labs\lab5\RAM_async_DP\tb\tb_ram_async_dp.v(29): (vlog-2730) Undefined variable: 'clk'.
+
+} {4.0 5.0} {}}

@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vfull_adder
+!s110 1601278270
+!i10b 1
+!s100 319SST@nITo`ili^hND8o0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5IHobe6@[L`dl_:HVN[W02
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/sim
+w1601278266
+8F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/full_adder.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/full_adder.v
+!i122 0
+L0 24 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1601278270.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/full_adder.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vfull_adder_tb
+!s110 1601278550
+!i10b 1
+!s100 AVKIXVM:h?]8KblR38jFe0
+R0
+ImZXf:K6;_oXmAZ:IG567U2
+R1
+R2
+w1601278531
+8F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v
+!i122 4
+L0 24 39
+R3
+r1
+!s85 0
+31
+!s108 1601278550.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/tb/full_adder_tb.v|
+!i113 1
+R4
+R5
+vhalf_adder
+!s110 1601278394
+!i10b 1
+!s100 VLDGJHTPdYBob5>58AdkW0
+R0
+IfzkSG8X?>zLicgz:=d4ol0
+R1
+R2
+w1592478586
+8F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/half_adder.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/half_adder.v
+!i122 2
+L0 24 8
+R3
+r1
+!s85 0
+31
+!s108 1601278394.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_and_Half_Adder/rtl/half_adder.v|
+!i113 1
+R4
+R5

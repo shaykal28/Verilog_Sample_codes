@@ -1,0 +1,15 @@
+{C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v} {1 {vlog -work work -stats=none {C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/rtl/clockbuffer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clockbuffer
+
+Top level modules:
+	clockbuffer
+
+} {} {}} {C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/clock_buffer/tb/clockbuffer_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clockbuffer_tb
+
+Top level modules:
+	clockbuffer_tb
+
+} {} {}}

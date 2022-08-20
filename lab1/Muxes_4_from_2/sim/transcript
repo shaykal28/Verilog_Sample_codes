@@ -1,0 +1,21 @@
+vsim work.tb_mux_4
+# vsim work.tb_mux_4 
+# Start time: 15:19:45 on Oct 07,2020
+# Loading work.tb_mux_4
+# Loading work.mux_4
+# Loading work.mux_2
+add wave -position insertpoint sim:/tb_mux_4/*
+add wave -position insertpoint sim:/tb_mux_4/DUT/*
+run -all
+# a=1010 s=01 out=1
+# a=1010 s=00 out=0
+# a=1010 s=10 out=0
+# a=1100 s=10 out=1
+# a=1100 s=11 out=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/tb/tb_mux_4.v(30)
+#    Time: 150 ps  Iteration: 0  Instance: /tb_mux_4
+# 1
+# Break in Module tb_mux_4 at F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/tb/tb_mux_4.v line 30
+# End time: 15:45:57 on Oct 07,2020, Elapsed time: 0:26:12
+# Errors: 0, Warnings: 1
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab1/Muxes_4_from_2/sim/Muxes_4_from_2.mpf

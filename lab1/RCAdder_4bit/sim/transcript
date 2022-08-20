@@ -1,0 +1,19 @@
+vsim work.tb_RCAdder_4bit
+# vsim work.tb_RCAdder_4bit 
+# Start time: 15:12:55 on Oct 07,2020
+# Loading work.tb_RCAdder_4bit
+# Loading work.RCAdder_4bit
+# Loading work.full_adder_df
+add wave -position insertpoint sim:/tb_RCAdder_4bit/*
+add wave -position insertpoint sim:/tb_RCAdder_4bit/DUT/*
+run -all
+# a=0000 b=0000 c=0000 sum_out=0000 carry=0000
+# a=1100 b=1110 c=0000 sum_out=1010 carry=0001
+# a=1010 b=0111 c=0001 sum_out=0010 carry=0001
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/tb/tb_RCAdder_4bit.v(35)
+#    Time: 100 ps  Iteration: 0  Instance: /tb_RCAdder_4bit
+# 1
+# Break in Module tb_RCAdder_4bit at F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/tb/tb_RCAdder_4bit.v line 35
+# End time: 15:15:56 on Oct 07,2020, Elapsed time: 0:03:01
+# Errors: 0, Warnings: 1
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/sim/RCAdder_4bit.mpf

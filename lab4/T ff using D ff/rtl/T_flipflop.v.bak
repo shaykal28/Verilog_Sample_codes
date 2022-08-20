@@ -1,0 +1,9 @@
+module T_flipflop(input wire clock,reset,T,
+		  output wire Q,Qb);
+wire ip,op,op_bar;
+
+assign ip = T^op;
+
+dff DUT(.clock(clock),.reset(reset),.d(ip),.Q_out(op)
+
+endmodule

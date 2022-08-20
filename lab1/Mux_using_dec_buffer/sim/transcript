@@ -1,0 +1,84 @@
+# Compile of decbuffer_mux.v was successful.
+# Compile of tb_decbuffer_mux.v was successful.
+# Compile of decoder_2X4.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_decbuffer_mux
+# vsim work.tb_decbuffer_mux 
+# Start time: 16:47:00 on Oct 08,2020
+# Loading work.tb_decbuffer_mux
+# Loading work.decbuffer_mux
+# Loading work.decoder
+add wave -position insertpoint sim:/tb_decbuffer_mux/*
+add wave -position insertpoint sim:/tb_decbuffer_mux/DUT/*
+run -all
+# a=0000 s=00 out=0
+# a=0000 s=01 out=0
+# a=0000 s=10 out=0
+# a=0000 s=11 out=0
+# a=0001 s=00 out=1
+# a=0001 s=01 out=0
+# a=0001 s=10 out=0
+# a=0001 s=11 out=0
+# a=0010 s=00 out=0
+# a=0010 s=01 out=1
+# a=0010 s=10 out=0
+# a=0010 s=11 out=0
+# a=0011 s=00 out=1
+# a=0011 s=01 out=1
+# a=0011 s=10 out=0
+# a=0011 s=11 out=0
+# a=0100 s=00 out=0
+# a=0100 s=01 out=0
+# a=0100 s=10 out=1
+# a=0100 s=11 out=0
+# a=0101 s=00 out=1
+# a=0101 s=01 out=0
+# a=0101 s=10 out=1
+# a=0101 s=11 out=0
+# a=0110 s=00 out=0
+# a=0110 s=01 out=1
+# a=0110 s=10 out=1
+# a=0110 s=11 out=0
+# a=0111 s=00 out=1
+# a=0111 s=01 out=1
+# a=0111 s=10 out=1
+# a=0111 s=11 out=0
+# a=1000 s=00 out=0
+# a=1000 s=01 out=0
+# a=1000 s=10 out=0
+# a=1000 s=11 out=1
+# a=1001 s=00 out=1
+# a=1001 s=01 out=0
+# a=1001 s=10 out=0
+# a=1001 s=11 out=1
+# a=1010 s=00 out=0
+# a=1010 s=01 out=1
+# a=1010 s=10 out=0
+# a=1010 s=11 out=1
+# a=1011 s=00 out=1
+# a=1011 s=01 out=1
+# a=1011 s=10 out=0
+# a=1011 s=11 out=1
+# a=1100 s=00 out=0
+# a=1100 s=01 out=0
+# a=1100 s=10 out=1
+# a=1100 s=11 out=1
+# a=1101 s=00 out=1
+# a=1101 s=01 out=0
+# a=1101 s=10 out=1
+# a=1101 s=11 out=1
+# a=1110 s=00 out=0
+# a=1110 s=01 out=1
+# a=1110 s=10 out=1
+# a=1110 s=11 out=1
+# a=1111 s=00 out=1
+# a=1111 s=01 out=1
+# a=1111 s=10 out=1
+# a=1111 s=11 out=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/Mux_using_dec_buffer/tb/tb_decbuffer_mux.v(24)
+#    Time: 690 ps  Iteration: 0  Instance: /tb_decbuffer_mux
+# 1
+# Break in Module tb_decbuffer_mux at F:/Maven_Training/Verilog/Verilog_labs/lab1/Mux_using_dec_buffer/tb/tb_decbuffer_mux.v line 24
+quit -sim
+# End time: 16:51:00 on Oct 08,2020, Elapsed time: 0:04:00
+# Errors: 0, Warnings: 2

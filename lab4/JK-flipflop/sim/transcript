@@ -1,0 +1,46 @@
+# Compile of JK-ff.v was successful.
+# Compile of tb_JK-ff.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_JK_ff
+# vsim work.tb_JK_ff 
+# Start time: 22:55:31 on Oct 16,2020
+# Loading work.tb_JK_ff
+# Loading work.JK_ff
+add wave -position insertpoint sim:/tb_JK_ff/*
+run -all
+# j=0 k=0 reset=0 Q=x Qbar=x
+# j=0 k=0 reset=1 Q=x Qbar=x
+# j=0 k=0 reset=1 Q=0 Qbar=1
+# j=0 k=0 reset=0 Q=0 Qbar=1
+# j=0 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=0 reset=0 Q=0 Qbar=1
+# j=1 k=0 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# j=1 k=1 reset=0 Q=1 Qbar=0
+# j=1 k=1 reset=0 Q=0 Qbar=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v(54)
+#    Time: 280 ns  Iteration: 0  Instance: /tb_JK_ff
+# 1
+# Break in Module tb_JK_ff at F:/Maven_Training/Verilog/Verilog_labs/lab4/JK-flipflop/tb/tb_JK-ff.v line 54
+quit -sim
+# End time: 22:59:48 on Oct 16,2020, Elapsed time: 0:04:17
+# Errors: 0, Warnings: 2

@@ -1,0 +1,31 @@
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ram_tb
+# vsim work.ram_tb 
+# Start time: 23:16:03 on Oct 16,2020
+# Loading work.ram_tb
+# Loading work.ram
+add wave -position insertpoint sim:/ram_tb/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v(97)
+#    Time: 350 ps  Iteration: 0  Instance: /ram_tb
+# 1
+# Break in Module ram_tb at F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v line 97
+quit -sim
+# End time: 23:16:58 on Oct 16,2020, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 2
+vsim work.ram_tb
+# vsim work.ram_tb 
+# Start time: 23:18:17 on Oct 16,2020
+# Loading work.ram_tb
+# Loading work.ram
+add wave -position insertpoint sim:/ram_tb/*
+run -all
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v(97)
+#    Time: 350 ps  Iteration: 0  Instance: /ram_tb
+# 1
+# Break in Module ram_tb at F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v line 97
+quit -sim
+# End time: 23:24:32 on Oct 16,2020, Elapsed time: 0:06:15
+# Errors: 0, Warnings: 1

@@ -1,0 +1,112 @@
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# Compile of single_port_ram_8x16_asynch_tb.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of single_port_ram_8x16_asynch_tb.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch_tb.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 23:25:44 on Mar 18,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+# ** Error: (vsim-3043) Unresolved reference to 'reset_logic'.
+#    Time: 0 ps  Iteration: 0  Instance: /single_port_ram_8x16_asynch_tb File: C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/singleport_asynch/tb/single_port_ram_8x16_asynch_tb.v Line: 56
+# Error loading design
+# End time: 23:25:45 on Mar 18,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 8
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 23:26:25 on Mar 18,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+# ** Error: (vsim-3043) Unresolved reference to 'reset_logic'.
+#    Time: 0 ps  Iteration: 0  Instance: /single_port_ram_8x16_asynch_tb File: C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/singleport_asynch/tb/single_port_ram_8x16_asynch_tb.v Line: 56
+# Error loading design
+# End time: 23:26:25 on Mar 18,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of single_port_ram_8x16_asynch_tb.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 23:26:40 on Mar 18,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+add wave -r sim:/single_port_ram_8x16_asynch_tb/*
+run
+# Time = 0  write_enb = 1 read_enb = 0 Address = 7 Data =   250  
+# Time = 10  write_enb = 1 read_enb = 0 Address = 4 Data =    20  
+# Time = 20  write_enb = 1 read_enb = 1 Address = 7 Data =     x  
+# Time = 30  write_enb = 0 read_enb = 1 Address = 4 Data =     x  
+# Compile of single_port_ram_8x16_asynch_tb.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# End time: 23:28:03 on Mar 18,2021, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 3
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 23:28:04 on Mar 18,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+add wave -r sim:/single_port_ram_8x16_asynch_tb/*
+run
+# Time = 0  write_enb = 1 read_enb = 0 Address = 7 Data =   250  
+# Time = 10  write_enb = 1 read_enb = 0 Address = 4 Data =    20  
+# Time = 20  write_enb = 0 read_enb = 1 Address = 7 Data =   250  
+# Time = 30  write_enb = 0 read_enb = 1 Address = 4 Data =   250  
+run
+# ** Note: $finish    : C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/singleport_asynch/tb/single_port_ram_8x16_asynch_tb.v(73)
+#    Time: 140 ps  Iteration: 0  Instance: /single_port_ram_8x16_asynch_tb
+# 1
+# Break in Module single_port_ram_8x16_asynch_tb at C:/Users/HP 840/Desktop/Maven Silicon/M5 verilog/megha/Behavioral_modelling/sequential/singleport_asynch/tb/single_port_ram_8x16_asynch_tb.v line 73
+# Compile of single_port_ram_8x16_asynch.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# End time: 23:32:47 on Mar 18,2021, Elapsed time: 0:04:43
+# Errors: 0, Warnings: 2
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 23:32:47 on Mar 18,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+add wave -r sim:/single_port_ram_8x16_asynch_tb/*
+run
+# Time = 0  write_enb = 1 read_enb = 0 Address = 7 Data =   250  
+# Time = 10  write_enb = 1 read_enb = 0 Address = 4 Data =    20  
+# Time = 20  write_enb = 0 read_enb = 1 Address = 7 Data =   250  
+# Time = 30  write_enb = 0 read_enb = 1 Address = 4 Data =    20  
+# A time value could not be extracted from the current line
+# Compile of single_port_ram_8x16_asynch.v failed with 2 errors.
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# End time: 00:21:37 on Mar 19,2021, Elapsed time: 0:48:50
+# Errors: 0, Warnings: 6
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 00:21:38 on Mar 19,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# End time: 00:41:48 on Mar 19,2021, Elapsed time: 0:20:10
+# Errors: 0, Warnings: 7
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 00:41:48 on Mar 19,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+# A time value could not be extracted from the current line
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+vsim -gui work.single_port_ram_8x16_asynch_tb
+# End time: 00:53:25 on Mar 19,2021, Elapsed time: 0:11:37
+# Errors: 0, Warnings: 3
+# vsim -gui work.single_port_ram_8x16_asynch_tb 
+# Start time: 00:53:25 on Mar 19,2021
+# Loading work.single_port_ram_8x16_asynch_tb
+# Loading work.single_port_ram_8x16_asynch
+# A time value could not be extracted from the current line
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v failed with 1 errors.
+# Compile of single_port_ram_8x16_asynch.v was successful.
+# End time: 01:21:21 on Mar 19,2021, Elapsed time: 0:27:56
+# Errors: 0, Warnings: 4

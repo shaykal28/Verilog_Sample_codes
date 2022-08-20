@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Advanced Verilog/Assignments/Assignment 2/FSM_vendingmachine/sim
+vSIPO
+!s110 1603879104
+!i10b 1
+!s100 HBBMc4<>ekQ2f97<ZM`1>1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@Lg9GfWj6l;c;APnL@d<31
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Lab reviews/Test_28_oct/sim
+w1603879098
+Z3 8F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\rtl\SIPO.v
+Z4 FF:\Maven_Training\Verilog\Lab reviews\Test_28_oct\rtl\SIPO.v
+!i122 1
+L0 1 31
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1603879104.000000
+Z6 !s107 F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\rtl\SIPO.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\rtl\SIPO.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@s@i@p@o
+vSIPO_special
+!s110 1603880399
+!i10b 1
+!s100 lSJ2gd9]PmIgOR<Q;YbHc3
+R0
+IlL_XV<OS5h`_Ii4Uj1i2Z0
+R1
+R2
+w1603880016
+R3
+R4
+!i122 9
+L0 1 33
+R5
+r1
+!s85 0
+31
+!s108 1603880398.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@s@i@p@o_special
+vtb_SIPO
+!s110 1603880401
+!i10b 1
+!s100 KI3<HH9glXnEa81MzidKj0
+R0
+I8Zb6>U^k?;:P4XCm9_agR1
+R1
+R2
+w1603880254
+8F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\tb\tb_SIPO.v
+FF:\Maven_Training\Verilog\Lab reviews\Test_28_oct\tb\tb_SIPO.v
+!i122 10
+L0 1 60
+R5
+r1
+!s85 0
+31
+!s108 1603880401.000000
+!s107 F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\tb\tb_SIPO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Maven_Training\Verilog\Lab reviews\Test_28_oct\tb\tb_SIPO.v|
+!i113 1
+R8
+R9
+ntb_@s@i@p@o

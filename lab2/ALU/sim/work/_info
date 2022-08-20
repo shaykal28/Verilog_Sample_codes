@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab1/Bidir_buffer/sim
+valu
+!s110 1602172863
+!i10b 1
+!s100 <9OznX[2W0LSPD]bFZfJ:0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXgYHXQ?>0f3fVAdC]U@4d2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/sim
+w1601526340
+8F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/rtl/alu.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/rtl/alu.v
+!i122 13
+L0 24 56
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1602172863.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/rtl/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/rtl/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_tb
+Z7 !s110 1602172864
+!i10b 1
+!s100 lcRUQYOGHQ5OYihc@><SW1
+R0
+Ic9H9MPnLUdfU77gQ9dmC81
+R1
+R2
+w1601623088
+8F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/alu_tb.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/alu_tb.v
+!i122 14
+L0 23 131
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/alu_tb.v|
+!i113 1
+R5
+R6
+vtb_alu
+R7
+!i10b 1
+!s100 kb[_zXV?3f7[ia:4l_o@A1
+R0
+IWdHmT2Dggn89`;GN09nXl1
+R1
+R2
+w1601559756
+8F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/tb_alu.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/tb_alu.v
+!i122 15
+L0 1 37
+R3
+r1
+!s85 0
+31
+!s108 1602172864.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/tb_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab2/ALU/tb/tb_alu.v|
+!i113 1
+R5
+R6

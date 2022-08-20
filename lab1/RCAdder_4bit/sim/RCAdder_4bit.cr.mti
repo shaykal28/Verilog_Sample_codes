@@ -1,0 +1,22 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/rtl/RCAdder_4bit.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/rtl/RCAdder_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RCAdder_4bit
+
+Top level modules:
+	RCAdder_4bit
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/rtl/full_adder_df.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/rtl/full_adder_df.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder_df
+
+Top level modules:
+	full_adder_df
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/tb/tb_RCAdder_4bit.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab1/RCAdder_4bit/tb/tb_RCAdder_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_RCAdder_4bit
+
+Top level modules:
+	tb_RCAdder_4bit
+
+} {} {}}

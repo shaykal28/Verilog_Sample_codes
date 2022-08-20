@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab4/mod12_counter/sim
+vram
+Z0 !s110 1602870348
+!i10b 1
+!s100 lQ?=[9=Y51o:neeXYS2Pi2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0?RBm2X02Iz:gGj[5N`^53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/sim
+w1602587081
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/rtl/ram.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/rtl/ram.v
+!i122 10
+L0 24 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1602870348.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/rtl/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/rtl/ram.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vram_tb
+R0
+!i10b 1
+!s100 z_kilHVf<aRGA6<oc<heZ3
+R1
+IzVHiW^1?TQDmOjlXi;Wn;2
+R2
+R3
+w1602587548
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v
+!i122 11
+L0 25 78
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM/tb/ram_tb.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/rtl/ram_dp_sync.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_dp_sync
+
+Top level modules:
+	ram_dp_sync
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab5/RAM_sync_DP/tb/tb_ram_dp_sync.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ram_dp_sync
+
+Top level modules:
+	tb_ram_dp_sync
+
+} {} {}}

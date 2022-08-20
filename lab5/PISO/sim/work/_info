@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/SIPO/sim
+vPISO
+!s110 1603177137
+!i10b 1
+!s100 RI:7O6[2B1LHZRndHCIMK3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4SohJz:<Qf7Eg;J:b>GFC2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/sim
+w1603177125
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v
+!i122 0
+L0 1 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1603177136.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@p@i@s@o
+vtb_PISO
+!s110 1603177236
+!i10b 1
+!s100 CZEOhbcXDhiW05BQ391lE2
+R0
+I_ZWKP6=kn9ggM1Xb^RB;f2
+R1
+R2
+w1603177224
+8F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v
+!i122 1
+L0 1 40
+R3
+r1
+!s85 0
+31
+!s108 1603177235.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v|
+!i113 1
+R4
+R5
+ntb_@p@i@s@o

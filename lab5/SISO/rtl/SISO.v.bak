@@ -1,0 +1,13 @@
+module SISO(  output data_out,
+              input data_in,clk,rst
+    ); 
+reg [3:0] temp;
+always@(posedge clk or posedge rst) begin
+if(rst)
+temp <= 4'b0000;
+else 
+temp <= {temp[2:0],data_in};
+end
+assign data_out = temp[3];
+endmodule
+

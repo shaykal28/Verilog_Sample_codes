@@ -1,0 +1,15 @@
+F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/rtl/PISO.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PISO
+
+Top level modules:
+	PISO
+
+} {} {}} F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Verilog_labs/lab5/PISO/tb/tb_PISO.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_PISO
+
+Top level modules:
+	tb_PISO
+
+} {} {}}

@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Projects/Alarm_clock/sim
+vdff
+Z0 !s110 1602857468
+!i10b 1
+!s100 lF]h7XE5Tkd<X@SK:XFd40
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia4G6mZBh>D]_I1fXngA1X3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/sim
+w1602830448
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v
+!i122 12
+L0 24 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1602857468.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/Dflipflop/rtl/dff.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vT_flipflop
+R0
+!i10b 1
+!s100 CoE53[d_LSdzgO0z_[ele0
+R1
+IY>I39;ZIKcA`4LGOTi3^91
+R2
+R3
+w1602857457
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v
+!i122 13
+L0 1 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v|
+!i113 1
+R6
+R7
+n@t_flipflop
+vtb_T_flipflip
+R0
+!i10b 1
+!s100 65D:XRWYOm3jPV_a>5l5>1
+R1
+Ihdlf1XE<gVeb4fa>9Oh9l1
+R2
+R3
+w1602829230
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/tb/tb_T_flipflop.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/tb/tb_T_flipflop.v
+!i122 14
+L0 1 58
+R4
+r1
+!s85 0
+31
+R5
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/tb/tb_T_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/tb/tb_T_flipflop.v|
+!i113 1
+R6
+R7
+ntb_@t_flipflip

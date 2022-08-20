@@ -1,0 +1,21 @@
+# Compile of T_flipflop.v failed with 1 errors.
+# Compile of T_flipflop.v was successful.
+# Compile of dff.v was successful.
+# Compile of T_flipflop.v was successful.
+# Compile of tb_T_flipflop.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_T_flipflip
+# vsim work.tb_T_flipflip 
+# Start time: 19:41:13 on Oct 16,2020
+# Loading work.tb_T_flipflip
+# Loading work.T_flipflop
+# Loading work.dff
+# ** Error: (vsim-3063) Port 'd' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_T_flipflip/DUT/DUT File: F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v Line: 8
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Q_out'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_T_flipflip/DUT/DUT File: F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v Line: 8
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Qb_out'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_T_flipflip/DUT/DUT File: F:/Maven_Training/Verilog/Verilog_labs/lab4/T ff using D ff/rtl/T_flipflop.v Line: 8
+# Error loading design
+# End time: 19:41:14 on Oct 16,2020, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 4

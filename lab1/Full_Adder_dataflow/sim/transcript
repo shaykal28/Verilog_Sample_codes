@@ -1,0 +1,27 @@
+# Compile of full_adder_df.v was successful.
+# Compile of tb_full_adder_df.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_full_adder_df
+# vsim work.tb_full_adder_df 
+# Start time: 16:17:24 on Oct 08,2020
+# Loading work.tb_full_adder_df
+# Loading work.full_adder_df
+add wave -position insertpoint sim:/tb_full_adder_df/*
+add wave -position insertpoint sim:/tb_full_adder_df/DUT/*
+run -all
+# Input a_in=0, b_in=0, c_in=0, Output sum_out=0, carry_out=0
+# Input a_in=0, b_in=0, c_in=1, Output sum_out=1, carry_out=0
+# Input a_in=0, b_in=1, c_in=0, Output sum_out=1, carry_out=0
+# Input a_in=0, b_in=1, c_in=1, Output sum_out=0, carry_out=1
+# Input a_in=1, b_in=0, c_in=0, Output sum_out=1, carry_out=0
+# Input a_in=1, b_in=0, c_in=1, Output sum_out=0, carry_out=1
+# Input a_in=1, b_in=1, c_in=0, Output sum_out=0, carry_out=1
+# Input a_in=1, b_in=1, c_in=1, Output sum_out=1, carry_out=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_Adder_dataflow/tb/tb_full_adder_df.v(57)
+#    Time: 100 ps  Iteration: 0  Instance: /tb_full_adder_df
+# 1
+# Break in Module tb_full_adder_df at F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_Adder_dataflow/tb/tb_full_adder_df.v line 57
+quit -sim
+# End time: 16:23:11 on Oct 08,2020, Elapsed time: 0:05:47
+# Errors: 0, Warnings: 3
+# Closing project F:/Maven_Training/Verilog/Verilog_labs/lab1/Full_Adder_dataflow/sim/full_adder_df.mpf

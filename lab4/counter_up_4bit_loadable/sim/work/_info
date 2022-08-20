@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab3/PriEncoder_8x3/sim
+vcounter_4bit_load_up
+Z0 !s110 1602869408
+!i10b 1
+!s100 TXa5K[mQn4MiTJN54nmoP1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT?E?5L78X5g;QIXIVVhF53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/sim
+w1602426160
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/rtl/4b_load_up_count.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/rtl/4b_load_up_count.v
+!i122 11
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602869407.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/rtl/4b_load_up_count.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/rtl/4b_load_up_count.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_counter_4bit_load_up
+R0
+!i10b 1
+!s100 ncIh^SX83azCcTZc:hXZA1
+R1
+IZzl452EEJJeZ^^eRd3:Ma2
+R2
+R3
+w1602436613
+8F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/tb/tb_4b_load_up_counter.v
+FF:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/tb/tb_4b_load_up_counter.v
+!i122 12
+L0 1 61
+R4
+r1
+!s85 0
+31
+!s108 1602869408.000000
+!s107 F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/tb/tb_4b_load_up_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Verilog_labs/lab4/counter_up_4bit_loadable/tb/tb_4b_load_up_counter.v|
+!i113 1
+R5
+R6

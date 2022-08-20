@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Maven_Training/Verilog/Verilog_labs/lab5/Ring_counter/sim
+vSIPO
+!s110 1603184964
+!i10b 1
+!s100 F?Q]GaHiCEP0cRHdG7DY`2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik]@^EL>01PfH<nBEiEGD[2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/sim
+w1603184959
+Z3 8F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v
+Z4 FF:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v
+!i122 0
+Z5 L0 1 26
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1603184963.000000
+Z7 !s107 F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/rtl/LR_1.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+n@s@i@p@o
+vSIPO_lr
+!s110 1603186964
+!i10b 1
+!s100 _7[zcGzZ[GDc1MhP]`@:I1
+R0
+Io`afW[2Gk27Y4GVWRW<JL0
+R1
+R2
+w1603186785
+R3
+R4
+!i122 13
+R5
+R6
+r1
+!s85 0
+31
+Z11 !s108 1603186964.000000
+R7
+R8
+!i113 1
+R9
+R10
+n@s@i@p@o_lr
+vtb_SIPO_lr
+!s110 1603186965
+!i10b 1
+!s100 GJ>bBbhYRifMg5UJo7:cn3
+R0
+IXA]@KK0>bO42S7g<YbYhc1
+R1
+R2
+w1603186960
+8F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v
+FF:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v
+!i122 14
+L0 1 68
+R6
+r1
+!s85 0
+31
+R11
+!s107 F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Maven_Training/Verilog/Lab reviews/Lab_review_20_oct/tb/tb_LR_1.v|
+!i113 1
+R9
+R10
+ntb_@s@i@p@o_lr

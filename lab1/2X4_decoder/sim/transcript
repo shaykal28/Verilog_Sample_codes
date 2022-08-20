@@ -1,0 +1,22 @@
+# Compile of tb_2X4_decoder.v was successful.
+# Compile of decoder_2X4.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_2X4_decoder
+# vsim work.tb_2X4_decoder 
+# Start time: 16:25:35 on Oct 08,2020
+# Loading work.tb_2X4_decoder
+# Loading work.decoder_2X4
+add wave -position insertpoint sim:/tb_2X4_decoder/*
+add wave -position insertpoint sim:/tb_2X4_decoder/DUT/*
+run -all
+# x=0 y=0 z0=1 z1=0 z2=0 z3=0
+# x=1 y=0 z0=0 z1=1 z2=0 z3=0
+# x=0 y=1 z0=0 z1=0 z2=1 z3=0
+# x=1 y=1 z0=0 z1=0 z2=0 z3=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/tb/tb_2X4_decoder.v(28)
+#    Time: 100 ps  Iteration: 0  Instance: /tb_2X4_decoder
+# 1
+# Break in Module tb_2X4_decoder at F:/Maven_Training/Verilog/Verilog_labs/lab1/2X4_decoder/tb/tb_2X4_decoder.v line 28
+quit -sim
+# End time: 16:30:17 on Oct 08,2020, Elapsed time: 0:04:42
+# Errors: 0, Warnings: 2

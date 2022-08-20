@@ -1,0 +1,26 @@
+# Compile of sr_latch.v was successful.
+# Compile of tb_SR_latch.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_SR_latch
+# vsim work.tb_SR_latch 
+# Start time: 22:50:35 on Oct 16,2020
+# Loading work.tb_SR_latch
+# Loading work.sr_latch
+add wave -position insertpoint sim:/tb_SR_latch/*
+run -all
+# s=0,r=0,en=0,q=x,qbar=x
+# s=0,r=0,en=1,q=x,qbar=x
+# s=1,r=0,en=1,q=1,qbar=0
+# s=0,r=0,en=1,q=1,qbar=0
+# s=0,r=1,en=1,q=0,qbar=1
+# s=0,r=0,en=1,q=0,qbar=1
+# s=1,r=1,en=1,q=1,qbar=1
+# ** Note: $finish    : F:/Maven_Training/Verilog/Verilog_labs/lab4/Gate_level_SR_latch/tb/tb_SR_latch.v(21)
+#    Time: 70 ps  Iteration: 0  Instance: /tb_SR_latch
+# 1
+# Break in Module tb_SR_latch at F:/Maven_Training/Verilog/Verilog_labs/lab4/Gate_level_SR_latch/tb/tb_SR_latch.v line 21
+QUIT -SIM
+# invalid command name "QUIT"
+quit -sim
+# End time: 22:54:54 on Oct 16,2020, Elapsed time: 0:04:19
+# Errors: 0, Warnings: 2
